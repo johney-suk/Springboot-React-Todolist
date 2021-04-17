@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Built-By: hsuk
-Build-Jdk: 11.0.9
+Built-By: bit
+Build-Jdk: 11.0.10
 Implementation-Title: todolist
 Implementation-Version: 0.0.1-SNAPSHOT
 Implementation-Vendor-Id: com.bedmil
